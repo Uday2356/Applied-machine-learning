@@ -40,8 +40,15 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 
 
+![Logistic Regression ](https://miro.medium.com/v2/resize:fit:1400/1*c_O3fM3_9p_3q8L0f6L34g.png)
+
+![Support Vector Machine Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20201202164917/SVM.png)
 
 
+![Linear Regression Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/Linear-Regression-in-Machine-learning.png)
 
 
-   
+![Decision Tree Diagram](https://www.displayr.com/wp-content/uploads/2018/08/Decision-Tree.png)
+
+
+![Random Forest Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200516115644/Random-Forest.png)
