@@ -1,21 +1,21 @@
 # Applied Machine Learning
 
-Welcome to my personal collection of machine learning algorithms and practical implementations. This repository serves as my hands-on laboratory for understanding fundamental ML models from the ground up, analyzing their mechanics, and building small applied projects around them.
+Welcome to my personal collection of machine learning algorithms and practical implementations. This repository serves as my hands-on laboratory for understanding fundamental ML models from the ground up, applying them to real-world datasets, and building practical solutions.
 
-##  Featured Algorithms & Topics
+## Featured Algorithms & Topics
 
 Here are the core machine learning algorithms and concepts covered in this repository:
 
 * **Linear Regression** — Modeling continuous outcomes, loss functions, and gradient descent.
 * **Logistic Regression** — Binary and multi-class classification, decision boundaries, and sigmoid activation.
-* **K-Nearest Neighbors (KNN)** — Distance metrics, instance-based learning, and hyperparameter tuning ($k$).
+* **K-Nearest Neighbors (KNN)** — Distance metrics, instance-based learning, and hyperparameter tuning (k).
 * **Support Vector Machines (SVM)** — Linear/non-linear classification, margins, and kernel tricks.
 * **Decision Trees** — Splitting criteria (Gini Impurity, Information Gain), tree pruning, and decision paths.
 * **ML Foundations** — Data preprocessing, feature scaling, model evaluation metrics (Confusion Matrix, Precision/Recall, ROC-AUC), and train-test splitting.
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 Each algorithm directory typically includes:
 1. **Core Concept/Notes:** Conceptual breakdown and math behind the model.
@@ -24,31 +24,52 @@ Each algorithm directory typically includes:
 
 ---
 
-##  Getting Started
+## Getting Started
 
 To run any of the notebooks or scripts locally:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Uday2356/Applied-machine-learning.git](https://github.com/Uday2356/Applied-machine-learning.git)
-   cd Applied-machine-learning
 
+```bash
+git clone https://github.com/Uday2356/Applied-machine-learning.git
+cd Applied-machine-learning
+```
 
+2. **Set up your environment:**
 
-Set up your environment using it :
+```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
+---
 
+## Project Visuals
 
-![Logistic Regression ](https://miro.medium.com/v2/resize:fit:1400/1*c_O3fM3_9p_3q8L0f6L34g.png)
+These images are stored inside the repository and render correctly in GitHub when referenced with relative paths.
 
-![Support Vector Machine Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20201202164917/SVM.png)
+<p align="center">
+  <img src="./Heart_gender.png" alt="Heart Gender Analysis" width="700" />
+</p>
 
+<p align="center">
+  <img src="./Chest%20pain%20analysis.png" alt="Chest Pain Analysis" width="700" />
+</p>
 
-![Linear Regression Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/Linear-Regression-in-Machine-learning.png)
+<p align="center">
+  <img src="./Count%20of%20Patient.png" alt="Count of Patients" width="700" />
+</p>
 
+<p align="center">
+  <img src="./Numeric%20Data%20Analysis.png" alt="Numeric Data Analysis" width="700" />
+</p>
 
-![Decision Tree Diagram](https://www.displayr.com/wp-content/uploads/2018/08/Decision-Tree.png)
+<p align="center">
+  <img src="./Correlation%20Between%20All%20domain%20.png" alt="Correlation Between All Domains" width="700" />
+</p>
 
+---
 
-![Random Forest Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200516115644/Random-Forest.png)
+## Notes
+
+- Use a stable internet connection for running notebooks and loading datasets.
+- If you want to extend the project, feel free to add new ML models, experiments, or notebooks.
